@@ -90,4 +90,5 @@ Los estudiantes ganaran con nosotros habilidad práctica sobre la programación 
 
 ¡Nos vemos en clase!
 
-`If you have any question with this project,feel free to reach out`
+`If you have any question with this project,feel free to reach out.
+I'll give you full answer about this project`
